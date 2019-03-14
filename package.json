@@ -1,0 +1,20 @@
+{
+  "name": "task-api",
+  "version": "1.0.0",
+  "description": "task-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task-api"
+  ],
+  "author": "edsonfer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-formidable": "^1.2.0",
+    "mysql": "^2.16.0"
+  }
+}
